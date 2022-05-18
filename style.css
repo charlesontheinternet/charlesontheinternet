@@ -1,0 +1,54 @@
+body    {
+    background-color: #92a8d1;
+}
+
+h1  {
+    color: white;
+    font-size: 5rem;
+    font-family: helvetica, sans-serif;
+    text-align: center;
+}
+
+h2  {
+    color: white;
+    font-size: 3rem;
+    font-family: helvetica, sans-serif;
+    text-align: center;
+}
+
+p   {
+    color: white;
+    font-size: 2rem;
+    font-family: serif;
+    padding: 1rem;
+}
+
+.top    {
+    background-color: coral;
+    width:;
+}
+
+.intro  {
+    width:%;
+}
+
+.intro_left {
+    float: left;
+    width: 50%;
+    background-color: aquamarine;
+}
+
+.intro_right    {
+    float: right;
+    width: 50%;
+    background-color:blueviolet;
+    padding:;
+}
+
+.intro_left img {
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ 
