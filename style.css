@@ -1,6 +1,6 @@
 body{ 
 background-color: #eab65a;
-width: 70%;
+width: 75%;
 margin-left: auto;
 margin-right: auto;
 }
@@ -19,14 +19,15 @@ color:#FFF;
 
 a:hover{
 color:#FFF;
-background-color: #e25667;
+background-color: #6556bc;
 }
 
 h1{
 color: white;
 font-size: 4rem;
 font-family: futura, sans-serif;
-text-align: center; padding-: 5rem;
+text-align: center;
+font-weight: lighter;
 }
 
 p{
@@ -37,23 +38,27 @@ font-family: futura, sans-serif;
 .top{
 background-color: #ed8144;
 width:;
-padding:4rem;
+padding:3rem;
+border-style: dashed;
+border-width:1rem;
+border-color: #6556bc;
 }
 
 .intro{
-width:%;
+background-color:#fff
+padding: 1rem;
 }
 
 .intro_left{
 float: left;
 width: 50%;
-background-color:#e25667;
+background-color:#6556BC;
 }
 
 .intro_right{
 float: right;
 width: 50%;
-background-color: #6556bc;
+background-color: #e25667;
 }
 
 .intro_left img{
